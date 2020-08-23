@@ -1,0 +1,32 @@
+.subcribe_input {
+  width: 300px;
+  height: 60px;
+}
+
+.btn-email {
+  width: 180px;
+  height: 60px;
+  background: #245ae6;
+  border-radius: 0px;
+  opacity: 1;
+}
+
+.email_box {
+  height: 40vh !important;
+}
+
+.email_heading {
+  text-align: left;
+  font: Medium 48px/58px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #02040b;
+  opacity: 1;
+}
+
+.email_paragraph {
+  text-align: left;
+  font: Regular 24px/29px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #4d546d;
+  opacity: 1;
+}

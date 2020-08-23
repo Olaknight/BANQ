@@ -1,0 +1,37 @@
+.faq__section {
+  background: #112a6b 0% 0% no-repeat padding-box;
+  opacity: 1;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column !important;
+  color: #ffffff;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  text-align: left;
+  font: Medium 54px/65px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #f4f7fa;
+  opacity: 1;
+}
+
+[data-theme="compact"]
+  .site-collapse-custom-collapse
+  .site-collapse-custom-panel,
+.site-collapse-custom-collapse .site-collapse-custom-panel {
+  background: #112a6b;
+  color: #ffffff !important;
+  border-color: #f4f7fa;
+  overflow: hidden;
+  padding: 7px;
+}
+
+.accordion__p {
+  text-align: left;
+  font: Regular 23px/28px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #f4f7fa !important;
+  opacity: 1;
+}

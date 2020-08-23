@@ -1,0 +1,65 @@
+.logo {
+  text-align: left;
+  font: Bold 36px/42px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #245ae6;
+  opacity: 1;
+  margin-bottom: 10px;
+}
+
+.welcome {
+  text-align: left;
+  font: Bold 34px/48px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #112a6b;
+  opacity: 1;
+  margin-bottom: 10px;
+}
+.welcome__text {
+  text-align: left;
+  font: 25px Neurial Grotesk;
+  letter-spacing: 0px;
+  color: #b5c0d0;
+  opacity: 1;
+}
+
+.login_input {
+  width: 100%;
+  height: 45px;
+  margin-top: 12px;
+}
+
+#login_input__button:hover {
+  background-color: #245ae6 !important;
+
+  color: #ffffff;
+}
+.ant-collapse-header {
+  color: #ffffff !important;
+}
+
+.login_box {
+  display: flex;
+  flex-direction: column;
+}
+.forgot__password {
+  color: red;
+  font-size: 10px;
+  cursor: pointer;
+}
+.not_registered {
+  font-size: 10px;
+}
+
+.text__sign_up {
+  color: #245ae6;
+  font-size: 10px;
+  margin-left: 5px;
+  font: Neurial Grotesk;
+  letter-spacing: 0px;
+  cursor: pointer;
+  text-transform: capitalize;
+}
+.button__text {
+  width: 1px;
+}

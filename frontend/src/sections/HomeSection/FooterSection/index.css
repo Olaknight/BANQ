@@ -1,0 +1,13 @@
+.footer__section {
+  display: flex !important;
+  flex-direction: column;
+  height: 50vh;
+  width: 100%;
+}
+.brand_area {
+  display: flex;
+  flex-direction: column;
+}
+
+.details_area {
+}
